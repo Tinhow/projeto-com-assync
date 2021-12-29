@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Mário Bross",
+    "image": "imgs/mario.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Sonic",
+    "image": "imgs/sonic.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Pac-man",
+    "image": "imgs/pacman.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Minecraft",
+    "image": "imgs/minecraft.jpeg"
+  }
+
+]

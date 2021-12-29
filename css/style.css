@@ -1,0 +1,15 @@
+.image-actions {
+  cursor: pointer;
+}
+
+body {
+  background-color: rgb(63, 63, 243);
+}
+
+h1 {
+  margin-bottom: 3rem;
+}
+
+p {
+  color: white;
+}
